@@ -5,14 +5,19 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, hi, hi, there !
 
 - 🧑‍💻 I'm a backend developer.
 - 🌱 I’m currently learning FastAPI, SQLModel!
 - 🏋️‍♂️ I want to be a frontend developer.
 - 💚 I love Vue 💚
-- 📫 How to reach me: [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
-  <br>
+- 📫 How to reach me:
+  - [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
+    <a href="https://twitter.com/engineer_naito"><img src="https://skillicons.dev/icons?theme=light&perline=7&i=twitter"></a>
+
+<br>
+<br>
+<br>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
@@ -20,7 +25,17 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,jquery,python,fastapi,django,vue" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,js,jquery,python,fastapi,django,vue" />
+<br>
+<br>
+<br>
+
+## 🛠️ Tools
+
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=10&i=vscode,git,github,notion,bash,docker,figma,discord," />
+
+<br>
+<br>
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
