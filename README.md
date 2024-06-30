@@ -11,11 +11,12 @@
 - 🌱 I’m currently learning FastAPI, SQLModel!
 - 🏋️‍♂️ I want to be a frontend developer.
 - 💚 I love Vue 💚
-- 📫 How to reach me:
 
-  - [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
+## 📫 How to reach me:
 
-<a href="https://twitter.com/engineer_naito"><img src="https://skillicons.dev/icons?theme=light&perline=7&i=twitter"></a>
+- [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
+
+<a href="https://twitter.com/engineer_naito" style="margin-left:2rem;"><img src="https://skillicons.dev/icons?theme=light&perline=7&i=twitter"></a>
 
 <br>
 <br>
