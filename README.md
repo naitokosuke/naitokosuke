@@ -7,9 +7,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm a backend developer.
 - 🌱 I’m currently learning FastAPI, SQLModel!
-- 🏋️‍♂️ I want to be a frontend engineer.
+- 🏋️‍♂️ I want to be a frontend developer.
 - 💚 I love Vue 💚
 - 📫 How to reach me: [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
   <br>
