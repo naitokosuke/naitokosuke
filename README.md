@@ -20,7 +20,7 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,jquery,python,fastapi,django,vue" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,python,fastapi,django,vue" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
@@ -29,8 +29,8 @@
 ## 🏃‍♀️ Activities
 
 <div align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kosuke222naito&theme=light&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosuke222naito&theme=light&layout=compact" />
+  <!-- <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=kosuke222naito&theme=vue-dark&layout=compact" /> -->
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosuke222naito&theme=vue-dark&layout=compact" />
 </div>
 
 <!--
