@@ -10,10 +10,10 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, hi, hi, there !
 
-- 🧑‍💻 I'm a backend developer.
-- 🌱 I’m currently learning FastAPI, SQLModel!
-- 🏋️‍♂️ I want to be a frontend developer.
-- 💚 I love Vue 💚
+- 🧑‍💻 I'm a web developer
+- 🌱 I’m currently learning Vue, Nuxt!
+- 💚 I love Vue 💙
+- 💙 I Love Python 💛
 
 <br />
 <br />
