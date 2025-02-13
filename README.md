@@ -13,7 +13,7 @@
 - 🧑‍💻 I'm a web developer
 - 🌱 I’m currently learning Vue, Nuxt!
 - 💚 I love Vue 💙
-- 💙 I Love Python 💛
+- 💙 I love Python 💛
 
 <br />
 <br />
