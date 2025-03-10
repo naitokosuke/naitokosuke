@@ -2,54 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=engineer-naito" />
 </div>
 
-<img alt="SNQ-2001" src="images/greet.svg" width="98.2%" height="100%">
-
-<br />
-<br />
-<br />
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, hi, hi, there !
-
-- 🧑‍💻 I'm a web developer
-- 🌱 I’m currently learning Vue, Nuxt!
-- 💚 I love Vue 💙
-- 💙 I love Python 💛
-
-<br />
-<br />
-<br />
-
-## 📫 How to reach me:
-
-- [Twitter - @engineer_naito](https://twitter.com/engineer_naito)
-
-<a href="https://twitter.com/engineer_naito" style="margin-left:2rem;"><img src="https://skillicons.dev/icons?theme=light&perline=7&i=twitter"></a>
-
-<br>
-<br>
-<br>
-
-<!-- theme=light, theme=dark -->
-<!-- see: https://arc.net/l/quote/zizyykfh -->
-
-## 🌱 Skills
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,js,jquery,python,fastapi,django,vue" />
-
-<br>
-<br>
-<br>
-
-## 🛠️ Tools
-
-<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=10&i=vscode,git,github,notion,bash,docker,figma,discord," />
-
-<br>
-<br>
-<br>
-
-<!-- theme=light,　theme=vue-dark  -->
-
 ## 🏃‍♀️ Activities
 
 ### 📈 Summary
